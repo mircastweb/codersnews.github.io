@@ -1,0 +1,15 @@
+footer{
+    float: left;
+    background-color: var(--primary-color);
+    width: 100%;
+    text-align: center;
+    padding: 25px 0 
+}
+footer div{
+    color: white;
+}
+@media (max-width:700px){
+    footer{
+        width: 100%;
+    }
+}
